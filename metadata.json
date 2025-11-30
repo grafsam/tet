@@ -1,0 +1,5 @@
+{
+  "name": "Taiwan Junior High Exam Generator",
+  "description": "A specialized tool for Taiwan Junior High School teachers to generate exam papers (Grades 7-9) using Gemini AI. Supports Chinese, English, Math, Nature, and Society subjects with strict formatting guidelines.",
+  "requestFramePermissions": []
+}
